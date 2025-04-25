@@ -8,7 +8,7 @@ dotenv.config();
 const app: Application = express();
 app.use(express.json());
 app.use(cors({
-        origin: 'https://second-brain-frontend-iota.vercel.app'
+        origin: 'https://second-brain-olive.vercel.app'
 }));
 
 declare module 'express-serve-static-core' {
