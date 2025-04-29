@@ -9,6 +9,7 @@ import { BACKEND_URL } from '../config';
 import showShareAlert from './ShareAlert';
 import { useProduct } from '../Context/useProductContext';
 
+
 const SkeletonCard = () => (
     <div className="w-full min-w-[275px] max-w-[375px] p-4 bg-gray-100 rounded-xl shadow animate-pulse">
         <div className="h-48 bg-gray-300 rounded-lg mb-4"></div>
@@ -19,6 +20,7 @@ const SkeletonCard = () => (
             <div className="h-8 w-20 bg-gray-300 rounded-md"></div>
         </div>
     </div>
+
 );
 
 const MainSection = () => {

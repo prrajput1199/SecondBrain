@@ -21,7 +21,9 @@ interface InputStyle {
 export const Input = (props: InputStyle) => {
     const { onChange, placeholder, reference } = props;
     return (<>
-        <input type={props.type} placeholder={placeholder} className='px-4 py-2 border rounded my-2 w-full' onChange={onChange} ref={reference} defaultValue={props.defaultValue} />
+        <input type={props.type} placeholder={placeholder} className='px-4 py-2 border rounded my-2 w-full' onChange={onChange} ref={reference}
+        //  defaultValue={props.defaultValue} 
+         />
     </>
     )
 }

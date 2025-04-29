@@ -46,8 +46,12 @@ const Signin = () => {
         <>
             <div className="h-screen w-screen bg-gray-200 flex justify-center items-center">
                 <div className="bg-white rounded-xl border min-w-48 w-96 p-8">
-                    <Input placeholder='Email' reference={userEmailRef} type='email' defaultValue='pratik@gmail.com'/>
-                    <Input placeholder='Password' reference={userpasswordRef} type="password" defaultValue='Pratik@99'/>
+                    <Input placeholder='Email' reference={userEmailRef} type='email' 
+                    // defaultValue='pratik@gmail.com'
+                    />
+                    <Input placeholder='Password' reference={userpasswordRef} type="password" 
+                    // defaultValue='Pratik@99'
+                    />
 
                     {error && <p className="text-red-600 mb-2 flex justify-end">{error}</p>}
 
