@@ -1,7 +1,7 @@
 import Swal from 'sweetalert2';
 
 const showShareAlert = (hash: string) => {
-    const shareLink = `https://second-brain-frontend-iota.vercel.app/brain/share/${hash}`;
+    const shareLink = `https://second-brain-olive.vercel.app/brain/share/${hash}`;
 
     Swal.fire({
         title: '🔗 Share Your Brain!',
