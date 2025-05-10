@@ -62,18 +62,6 @@ npm start</code></pre>
   </div>
 
   <div class="section">
-    <h2>📦 API Endpoints</h2>
-    <ul>
-      <li><code>POST /api/auth/signup</code> - Register</li>
-      <li><code>POST /api/auth/login</code> - Login</li>
-      <li><code>POST /api/content</code> - Add content</li>
-      <li><code>GET /api/content</code> - Get all user content</li>
-      <li><code>DELETE /api/content/:id</code> - Delete content</li>
-      <li><code>GET /api/share/:id</code> - Public content view</li>
-    </ul>
-  </div>
-
-  <div class="section">
     <h2>👤 Author</h2>
     <p>Built by <strong>Pratik Rajput</strong> • <a href="https://github.com/your-username">GitHub</a></p>
   </div>
