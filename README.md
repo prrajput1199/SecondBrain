@@ -40,7 +40,7 @@
     <h2>⚙️ How to Run Locally</h2>
     <ol>
       <li>Clone the repo:
-        <pre><code>git clone https://github.com/your-username/second-brain.git</code></pre>
+        <pre><code>https://github.com/prrajput1199/SecondBrain.git</code></pre>
       </li>
       <li>Install server dependencies:
         <pre><code>cd server
