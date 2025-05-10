@@ -43,7 +43,7 @@
         <pre><code>https://github.com/prrajput1199/SecondBrain.git</code></pre>
       </li>
       <li>Install server dependencies:
-        <pre><code>cd server
+        <pre><code>cd Backend
 npm install</code></pre>
       </li>
       <li>Set up your <code>.env</code> in <code>/server</code>:
@@ -54,7 +54,7 @@ JWT_SECRET=your_jwt_secret</code></pre>
         <pre><code>npm start</code></pre>
       </li>
       <li>Setup frontend:
-        <pre><code>cd ../client
+        <pre><code>cd Frontend
 npm install
 npm start</code></pre>
       </li>
