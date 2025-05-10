@@ -10,6 +10,11 @@
 
   <h1>🧠 Second Brain App</h1>
 
+
+  <div class="screenshot">
+    <img src="https://media-hosting.imagekit.io/63800688c23344ca/BrainApp2.png?Expires=1841493212&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=D2SYX6PB9bdGVg9d1ExWyZiy1CkDhz4zQ~siszBKOySnmNtRqJhr2rNezUt6ATDNd3vxrZyhkzf~88MJ~gB2KXF~tY12w8R77Bi1-sFswJtYKvUT-ysSKyPiG10147NFf01Clo7BP8~IggLaM-F6Q36HrLJ1mPun91pL-rJqJhptSual0JkC3NYR32Ccc1pcIzYiJf1erKKeedDkCfzykeqV6RQWyerNY-i0a4t83rnEgubGJzifsnEirdjcm~NlA6tfl3PQ59zeS-NNOzJ9hk9nxmHzO70PtSH7zlgoAkMMO0XhTi16D~yMqGSoNuSEwHl~XCATyIrbbTyxHj24Yg__" alt="Second Brain App Screenshot">
+  </div>
+
   <div class="section">
     <h2>📌 Description</h2>
     <p>A personal web app to save your notes, ideas, and helpful links — like a second brain.</p>
