@@ -63,7 +63,7 @@ npm run dev</code></pre>
 
   <div class="section">
     <h2>👤 Author</h2>
-    <p>Built by <strong>Pratik Rajput</strong> • <a href="https://github.com/your-username">GitHub</a></p>
+    <p>Built by <strong>Pratik Rajput</strong> • <a href="https://github.com/prrajput1199">GitHub</a></p>
   </div>
 
 </body>
