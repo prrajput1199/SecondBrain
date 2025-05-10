@@ -51,12 +51,12 @@ npm install</code></pre>
 JWT_SECRET=your_jwt_secret</code></pre>
       </li>
       <li>Start backend:
-        <pre><code>npm start</code></pre>
+        <pre><code>npm run dev</code></pre>
       </li>
       <li>Setup frontend:
         <pre><code>cd Frontend
 npm install
-npm start</code></pre>
+npm run dev</code></pre>
       </li>
     </ol>
   </div>
